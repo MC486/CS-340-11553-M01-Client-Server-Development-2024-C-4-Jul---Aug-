@@ -38,7 +38,7 @@ The impact of such a project extends beyond just the technical aspects. It enhan
 
 
 
-Grazioso Salvare Dashboard README
+# Grazioso Salvare Dashboard README
 Project Overview
 Grazioso Salvare is a rescue-animal training company that identifies dogs for search-and-rescue training. The company has collaborated with five animal shelters around Austin, Texas, to provide data on potential dogs. The goal of this project was to create a user-friendly web application dashboard that allows Grazioso Salvare to interact with and visualize data from a MongoDB database.
 The dashboard was developed to allow seamless interaction with the MongoDB database. The data is stored and managed in MongoDB, while the user interface components, such as the data table and charts, provide dynamic visualizations and interactions. The custom Python CRUD module is utilized to handle database queries, ensuring smooth communication between the database and the dashboard interface.
